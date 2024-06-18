@@ -1,0 +1,37 @@
+[
+    {
+      "id": 1,
+      "fullName": "vishnu",
+      "address": "3 gummidipoondi road",
+      "phoneNumber": "7094671614",
+      "email": "vishnu@gamil.com"
+    },
+    {
+      "id": 2,
+      "fullName": "moni",
+      "address": "4 tada",
+      "phoneNumber": "8879654321",
+      "email": "monika@gmail.com"
+    },
+    {
+      "id": 3,
+      "fullName": "shivani",
+      "address": "nungambakam",
+      "phoneNumber": "789096532",
+      "email": "shivani@gmail.com"
+    },
+    {
+      "id": 4,
+      "fullName": "zoya khan",
+      "address": "mathavaram",
+      "phoneNumber": "789054322",
+      "email": "zoya.khan@gmail.com"
+    },
+    {
+      "id": 5,
+      "fullName": "livya",
+      "address": "palavaram",
+      "phoneNumber": "8908654321",
+      "email": "livya@gmail.com"
+    }
+  ]
